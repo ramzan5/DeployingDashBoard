@@ -1,4 +1,3 @@
-from statistics import correlation
 import pandas as pd
 from scipy.stats import pearsonr
 from pathlib import Path
