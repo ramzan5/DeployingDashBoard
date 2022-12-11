@@ -48,8 +48,7 @@ def DisplayNumbersOfColumns(DataFrame):
     return DataFrame.shape[1]
 
 
-DataFrame = ReafFile(
-    "/home/muhammad/Documents/DashBoard/DataSet/Bike-Sharing-Dataset/day.csv")
+# DataFrame = ReafFile("/home/muhammad/Documents/DashBoard/DataSet/Bike-Sharing-Dataset/day.csv")
 # print(DisplayNumbersOfColumns(DataFrame))
 # -------------------------------------------------------------------------------------------------
 
